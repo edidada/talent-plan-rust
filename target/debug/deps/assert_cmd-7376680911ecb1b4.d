@@ -1,0 +1,11 @@
+D:\develops\git\github\rust\talent-plan-rust\target\debug\deps\assert_cmd-7376680911ecb1b4.d: C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\lib.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\assert.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\cargo.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\cmd.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\stdin.rs
+
+D:\develops\git\github\rust\talent-plan-rust\target\debug\deps\libassert_cmd-7376680911ecb1b4.rlib: C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\lib.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\assert.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\cargo.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\cmd.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\stdin.rs
+
+D:\develops\git\github\rust\talent-plan-rust\target\debug\deps\libassert_cmd-7376680911ecb1b4.rmeta: C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\lib.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\assert.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\cargo.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\cmd.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\stdin.rs
+
+C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\lib.rs:
+C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\assert.rs:
+C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\cargo.rs:
+C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\cmd.rs:
+C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\assert_cmd-0.11.1\src\stdin.rs:

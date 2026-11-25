@@ -1,0 +1,14 @@
+D:\develops\git\github\rust\talent-plan-rust\target\debug\deps\serde-51d391fe8961f07c.d: C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs D:\develops\git\github\rust\talent-plan-rust\target\debug\build\serde-caf956b834941ad6\out/private.rs
+
+D:\develops\git\github\rust\talent-plan-rust\target\debug\deps\libserde-51d391fe8961f07c.rlib: C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs D:\develops\git\github\rust\talent-plan-rust\target\debug\build\serde-caf956b834941ad6\out/private.rs
+
+D:\develops\git\github\rust\talent-plan-rust\target\debug\deps\libserde-51d391fe8961f07c.rmeta: C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs D:\develops\git\github\rust\talent-plan-rust\target\debug\build\serde-caf956b834941ad6\out/private.rs
+
+C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\lib.rs:
+C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\integer128.rs:
+C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\mod.rs:
+C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\de.rs:
+C:\Users\wdidada\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.229\src\private\ser.rs:
+D:\develops\git\github\rust\talent-plan-rust\target\debug\build\serde-caf956b834941ad6\out/private.rs:
+
+# env-dep:OUT_DIR=D:\\develops\\git\\github\\rust\\talent-plan-rust\\target\\debug\\build\\serde-caf956b834941ad6\\out
